@@ -1,0 +1,7 @@
+************* Module test_searching
+test_searching.py:9:0: W0611: Unused exponential_search imported from Search_Algo.exponential_search (unused-import)
+test_searching.py:10:0: W0611: Unused fibonacci_search imported from Search_Algo.fibonacci_search (unused-import)
+
+-------------------------------------------------------------------
+Your code has been rated at 8.75/10 (previous run: 10.00/10, -1.25)
+
