@@ -1,0 +1,16 @@
+# Ignore virtual env
+envSearchAlgo/
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore IDE
+.vscode/
+.idea/
+
+# Ignore PyTest cache
+.pytest_cache/
+
+# Ignore README and other docs if not needed in container
+README.md
